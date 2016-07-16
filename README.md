@@ -18,5 +18,5 @@ Refactoring: Successivamente dovrà fare i conti con codice funzionante, ma comp
 Designing: Solo alla fine si troverà di fronte a documenti vuoti in cui programmare da zero la soluzione ad un problema non affrontato precedentemente.
 
 ##Contributors
-Amerigo Mancino
+Amerigo Mancino<br>
 Simone Scala
