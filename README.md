@@ -19,6 +19,5 @@ Designing: Solo alla fine si troverà di fronte a documenti vuoti in cui program
 
 ## Contributors
 Amerigo Mancino<br>
-Bartolomeo Lombardi<br>
 Simone Scala
 
